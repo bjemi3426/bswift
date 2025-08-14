@@ -1,0 +1,757 @@
+[
+  {
+    "word": "hola",
+    "translation": "hello",
+    "language": "Spanish"
+  },
+  {
+    "word": "adiós",
+    "translation": "goodbye",
+    "language": "Spanish"
+  },
+  {
+    "word": "por favor",
+    "translation": "please",
+    "language": "Spanish"
+  },
+  {
+    "word": "gracias",
+    "translation": "thank you",
+    "language": "Spanish"
+  },
+  {
+    "word": "lo siento",
+    "translation": "sorry",
+    "language": "Spanish"
+  },
+  {
+    "word": "sí",
+    "translation": "yes",
+    "language": "Spanish"
+  },
+  {
+    "word": "no",
+    "translation": "no",
+    "language": "Spanish"
+  },
+  {
+    "word": "¿qué?",
+    "translation": "what?",
+    "language": "Spanish"
+  },
+  {
+    "word": "¿quién?",
+    "translation": "who?",
+    "language": "Spanish"
+  },
+  {
+    "word": "¿dónde?",
+    "translation": "where?",
+    "language": "Spanish"
+  },
+  {
+    "word": "¿cuándo?",
+    "translation": "when?",
+    "language": "Spanish"
+  },
+  {
+    "word": "¿por qué?",
+    "translation": "why?",
+    "language": "Spanish"
+  },
+  {
+    "word": "¿cómo?",
+    "translation": "how?",
+    "language": "Spanish"
+  },
+  {
+    "word": "hombre",
+    "translation": "man",
+    "language": "Spanish"
+  },
+  {
+    "word": "mujer",
+    "translation": "woman",
+    "language": "Spanish"
+  },
+  {
+    "word": "niño",
+    "translation": "boy",
+    "language": "Spanish"
+  },
+  {
+    "word": "niña",
+    "translation": "girl",
+    "language": "Spanish"
+  },
+  {
+    "word": "amigo",
+    "translation": "friend (male)",
+    "language": "Spanish"
+  },
+  {
+    "word": "amiga",
+    "translation": "friend (female)",
+    "language": "Spanish"
+  },
+  {
+    "word": "familia",
+    "translation": "family",
+    "language": "Spanish"
+  },
+  {
+    "word": "comida",
+    "translation": "food",
+    "language": "Spanish"
+  },
+  {
+    "word": "agua",
+    "translation": "water",
+    "language": "Spanish"
+  },
+  {
+    "word": "casa",
+    "translation": "house",
+    "language": "Spanish"
+  },
+  {
+    "word": "escuela",
+    "translation": "school",
+    "language": "Spanish"
+  },
+  {
+    "word": "trabajo",
+    "translation": "work",
+    "language": "Spanish"
+  },
+  {
+    "word": "tiempo",
+    "translation": "time",
+    "language": "Spanish"
+  },
+  {
+    "word": "día",
+    "translation": "day",
+    "language": "Spanish"
+  },
+  {
+    "word": "noche",
+    "translation": "night",
+    "language": "Spanish"
+  },
+  {
+    "word": "mañana",
+    "translation": "morning / tomorrow",
+    "language": "Spanish"
+  },
+  {
+    "word": "ayer",
+    "translation": "yesterday",
+    "language": "Spanish"
+  },
+  {
+    "word": "hoy",
+    "translation": "today",
+    "language": "Spanish"
+  },
+  {
+    "word": "aquí",
+    "translation": "here",
+    "language": "Spanish"
+  },
+  {
+    "word": "allí",
+    "translation": "there",
+    "language": "Spanish"
+  },
+  {
+    "word": "grande",
+    "translation": "big",
+    "language": "Spanish"
+  },
+  {
+    "word": "pequeño",
+    "translation": "small",
+    "language": "Spanish"
+  },
+  {
+    "word": "rápido",
+    "translation": "fast",
+    "language": "Spanish"
+  },
+  {
+    "word": "lento",
+    "translation": "slow",
+    "language": "Spanish"
+  },
+  {
+    "word": "feliz",
+    "translation": "happy",
+    "language": "Spanish"
+  },
+  {
+    "word": "triste",
+    "translation": "sad",
+    "language": "Spanish"
+  },
+  {
+    "word": "fácil",
+    "translation": "easy",
+    "language": "Spanish"
+  },
+  {
+    "word": "difícil",
+    "translation": "difficult",
+    "language": "Spanish"
+  },
+  {
+    "word": "nuevo",
+    "translation": "new",
+    "language": "Spanish"
+  },
+  {
+    "word": "viejo",
+    "translation": "old",
+    "language": "Spanish"
+  },
+  {
+    "word": "bonito",
+    "translation": "pretty",
+    "language": "Spanish"
+  },
+  {
+    "word": "feo",
+    "translation": "ugly",
+    "language": "Spanish"
+  },
+  {
+    "word": "bueno",
+    "translation": "good",
+    "language": "Spanish"
+  },
+  {
+    "word": "malo",
+    "translation": "bad",
+    "language": "Spanish"
+  },
+  {
+    "word": "caliente",
+    "translation": "hot",
+    "language": "Spanish"
+  },
+  {
+    "word": "frío",
+    "translation": "cold",
+    "language": "Spanish"
+  },
+  {
+    "word": "libro",
+    "translation": "book",
+    "language": "Spanish"
+  },
+  {
+    "word": "perro",
+    "translation": "dog",
+    "language": "Spanish"
+  },
+  {
+    "word": "gato",
+    "translation": "cat",
+    "language": "Spanish"
+  },
+  {
+    "word": "auto",
+    "translation": "car",
+    "language": "Spanish"
+  },
+  {
+    "word": "camión",
+    "translation": "truck",
+    "language": "Spanish"
+  },
+  {
+    "word": "tren",
+    "translation": "train",
+    "language": "Spanish"
+  },
+  {
+    "word": "avión",
+    "translation": "airplane",
+    "language": "Spanish"
+  },
+  {
+    "word": "bicicleta",
+    "translation": "bicycle",
+    "language": "Spanish"
+  },
+  {
+    "word": "calle",
+    "translation": "street",
+    "language": "Spanish"
+  },
+  {
+    "word": "camino",
+    "translation": "path",
+    "language": "Spanish"
+  },
+  {
+    "word": "puerta",
+    "translation": "door",
+    "language": "Spanish"
+  },
+  {
+    "word": "ventana",
+    "translation": "window",
+    "language": "Spanish"
+  },
+  {
+    "word": "mesa",
+    "translation": "table",
+    "language": "Spanish"
+  },
+  {
+    "word": "silla",
+    "translation": "chair",
+    "language": "Spanish"
+  },
+  {
+    "word": "cama",
+    "translation": "bed",
+    "language": "Spanish"
+  },
+  {
+    "word": "cuadro",
+    "translation": "picture",
+    "language": "Spanish"
+  },
+  {
+    "word": "pared",
+    "translation": "wall",
+    "language": "Spanish"
+  },
+  {
+    "word": "techo",
+    "translation": "ceiling",
+    "language": "Spanish"
+  },
+  {
+    "word": "piso",
+    "translation": "floor",
+    "language": "Spanish"
+  },
+  {
+    "word": "zapato",
+    "translation": "shoe",
+    "language": "Spanish"
+  },
+  {
+    "word": "camisa",
+    "translation": "shirt",
+    "language": "Spanish"
+  },
+  {
+    "word": "pantalón",
+    "translation": "pants",
+    "language": "Spanish"
+  },
+  {
+    "word": "abrigo",
+    "translation": "coat",
+    "language": "Spanish"
+  },
+  {
+    "word": "sombrero",
+    "translation": "hat",
+    "language": "Spanish"
+  },
+  {
+    "word": "reloj",
+    "translation": "watch",
+    "language": "Spanish"
+  },
+  {
+    "word": "teléfono",
+    "translation": "phone",
+    "language": "Spanish"
+  },
+  {
+    "word": "computadora",
+    "translation": "computer",
+    "language": "Spanish"
+  },
+  {
+    "word": "pantalla",
+    "translation": "screen",
+    "language": "Spanish"
+  },
+  {
+    "word": "ratón",
+    "translation": "mouse",
+    "language": "Spanish"
+  },
+  {
+    "word": "teclado",
+    "translation": "keyboard",
+    "language": "Spanish"
+  },
+  {
+    "word": "pan",
+    "translation": "bread",
+    "language": "Spanish"
+  },
+  {
+    "word": "leche",
+    "translation": "milk",
+    "language": "Spanish"
+  },
+  {
+    "word": "huevo",
+    "translation": "egg",
+    "language": "Spanish"
+  },
+  {
+    "word": "queso",
+    "translation": "cheese",
+    "language": "Spanish"
+  },
+  {
+    "word": "carne",
+    "translation": "meat",
+    "language": "Spanish"
+  },
+  {
+    "word": "pescado",
+    "translation": "fish",
+    "language": "Spanish"
+  },
+  {
+    "word": "pollo",
+    "translation": "chicken",
+    "language": "Spanish"
+  },
+  {
+    "word": "manzana",
+    "translation": "apple",
+    "language": "Spanish"
+  },
+  {
+    "word": "naranja",
+    "translation": "orange (fruit)",
+    "language": "Spanish"
+  },
+  {
+    "word": "plátano",
+    "translation": "banana",
+    "language": "Spanish"
+  },
+  {
+    "word": "uva",
+    "translation": "grape",
+    "language": "Spanish"
+  },
+  {
+    "word": "limón",
+    "translation": "lemon",
+    "language": "Spanish"
+  },
+  {
+    "word": "sal",
+    "translation": "salt",
+    "language": "Spanish"
+  },
+  {
+    "word": "azúcar",
+    "translation": "sugar",
+    "language": "Spanish"
+  },
+  {
+    "word": "cuchara",
+    "translation": "spoon",
+    "language": "Spanish"
+  },
+  {
+    "word": "tenedor",
+    "translation": "fork",
+    "language": "Spanish"
+  },
+  {
+    "word": "cuchillo",
+    "translation": "knife",
+    "language": "Spanish"
+  },
+  {
+    "word": "plato",
+    "translation": "plate",
+    "language": "Spanish"
+  },
+  {
+    "word": "vaso",
+    "translation": "glass",
+    "language": "Spanish"
+  },
+  {
+    "word": "taza",
+    "translation": "cup",
+    "language": "Spanish"
+  },
+  {
+    "word": "bebida",
+    "translation": "drink",
+    "language": "Spanish"
+  },
+  {
+    "word": "vino",
+    "translation": "wine",
+    "language": "Spanish"
+  },
+  {
+    "word": "cerveza",
+    "translation": "beer",
+    "language": "Spanish"
+  },
+  {
+    "word": "café",
+    "translation": "coffee",
+    "language": "Spanish"
+  },
+  {
+    "word": "té",
+    "translation": "tea",
+    "language": "Spanish"
+  },
+  {
+    "word": "azul",
+    "translation": "blue",
+    "language": "Spanish"
+  },
+  {
+    "word": "rojo",
+    "translation": "red",
+    "language": "Spanish"
+  },
+  {
+    "word": "verde",
+    "translation": "green",
+    "language": "Spanish"
+  },
+  {
+    "word": "amarillo",
+    "translation": "yellow",
+    "language": "Spanish"
+  },
+  {
+    "word": "negro",
+    "translation": "black",
+    "language": "Spanish"
+  },
+  {
+    "word": "blanco",
+    "translation": "white",
+    "language": "Spanish"
+  },
+  {
+    "word": "gris",
+    "translation": "gray",
+    "language": "Spanish"
+  },
+  {
+    "word": "marrón",
+    "translation": "brown",
+    "language": "Spanish"
+  },
+  {
+    "word": "rosa",
+    "translation": "pink",
+    "language": "Spanish"
+  },
+  {
+    "word": "naranja",
+    "translation": "orange (color)",
+    "language": "Spanish"
+  },
+  {
+    "word": "ojos",
+    "translation": "eyes",
+    "language": "Spanish"
+  },
+  {
+    "word": "boca",
+    "translation": "mouth",
+    "language": "Spanish"
+  },
+  {
+    "word": "oreja",
+    "translation": "ear",
+    "language": "Spanish"
+  },
+  {
+    "word": "nariz",
+    "translation": "nose",
+    "language": "Spanish"
+  },
+  {
+    "word": "cabeza",
+    "translation": "head",
+    "language": "Spanish"
+  },
+  {
+    "word": "mano",
+    "translation": "hand",
+    "language": "Spanish"
+  },
+  {
+    "word": "brazo",
+    "translation": "arm",
+    "language": "Spanish"
+  },
+  {
+    "word": "pierna",
+    "translation": "leg",
+    "language": "Spanish"
+  },
+  {
+    "word": "pie",
+    "translation": "foot",
+    "language": "Spanish"
+  },
+  {
+    "word": "corazón",
+    "translation": "heart",
+    "language": "Spanish"
+  },
+  {
+    "word": "cuerpo",
+    "translation": "body",
+    "language": "Spanish"
+  },
+  {
+    "word": "mente",
+    "translation": "mind",
+    "language": "Spanish"
+  },
+  {
+    "word": "amor",
+    "translation": "love",
+    "language": "Spanish"
+  },
+  {
+    "word": "miedo",
+    "translation": "fear",
+    "language": "Spanish"
+  },
+  {
+    "word": "alegría",
+    "translation": "joy",
+    "language": "Spanish"
+  },
+  {
+    "word": "tristeza",
+    "translation": "sadness",
+    "language": "Spanish"
+  },
+  {
+    "word": "ira",
+    "translation": "anger",
+    "language": "Spanish"
+  },
+  {
+    "word": "paz",
+    "translation": "peace",
+    "language": "Spanish"
+  },
+  {
+    "word": "guerra",
+    "translation": "war",
+    "language": "Spanish"
+  },
+  {
+    "word": "cielo",
+    "translation": "sky",
+    "language": "Spanish"
+  },
+  {
+    "word": "sol",
+    "translation": "sun",
+    "language": "Spanish"
+  },
+  {
+    "word": "luna",
+    "translation": "moon",
+    "language": "Spanish"
+  },
+  {
+    "word": "estrella",
+    "translation": "star",
+    "language": "Spanish"
+  },
+  {
+    "word": "mar",
+    "translation": "sea",
+    "language": "Spanish"
+  },
+  {
+    "word": "río",
+    "translation": "river",
+    "language": "Spanish"
+  },
+  {
+    "word": "montaña",
+    "translation": "mountain",
+    "language": "Spanish"
+  },
+  {
+    "word": "bosque",
+    "translation": "forest",
+    "language": "Spanish"
+  },
+  {
+    "word": "árbol",
+    "translation": "tree",
+    "language": "Spanish"
+  },
+  {
+    "word": "flor",
+    "translation": "flower",
+    "language": "Spanish"
+  },
+  {
+    "word": "hoja",
+    "translation": "leaf",
+    "language": "Spanish"
+  },
+  {
+    "word": "animal",
+    "translation": "animal",
+    "language": "Spanish"
+  },
+  {
+    "word": "pájaro",
+    "translation": "bird",
+    "language": "Spanish"
+  },
+  {
+    "word": "pez",
+    "translation": "fish (animal)",
+    "language": "Spanish"
+  },
+  {
+    "word": "vaca",
+    "translation": "cow",
+    "language": "Spanish"
+  },
+  {
+    "word": "caballo",
+    "translation": "horse",
+    "language": "Spanish"
+  },
+  {
+    "word": "oveja",
+    "translation": "sheep",
+    "language": "Spanish"
+  },
+  {
+    "word": "cerdo",
+    "translation": "pig",
+    "language": "Spanish"
+  }
+]
