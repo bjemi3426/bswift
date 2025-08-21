@@ -1,4 +1,4 @@
-Brandon J. (self taught dev) Public portfolio/repo. (See App Directories for more screenshots.)
+Brandon J. (self taught dev - 5 years) Public portfolio/repo. (See App Directories for more screenshots.)
 iOS/MacOS
 
 
