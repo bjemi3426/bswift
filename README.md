@@ -12,7 +12,7 @@ Smarty Plants Appp MacOS
 
 MovieShelf APP IOS (imdb api)
 
-<img width="454" height="889" alt="Screenshot 2025-08-21 at 12 48 08 PM" src="https://github.com/user-attachments/assets/aac8ea97-5bc4-4e72-8af5-1216135bc027" />
-<img width="451" height="954" alt="Screenshot 2025-08-21 at 12 39 38 PM" src="https://github.com/user-attachments/assets/f92d93f6-6d86-4ca8-8f5e-1d1eeeffee2e" />
-<img width="445" height="946" alt="Screenshot 2025-08-21 at 12 39 48 PM" src="https://github.com/user-attachments/assets/091e8226-14a6-4e08-bb44-b880fe40a5c8" />
 
+<img width="435" height="885" alt="Screenshot 2025-08-21 at 12 48 08 PM" src="https://github.com/user-attachments/assets/c62ccf5b-90d9-41b2-b116-66b60d19e146" />
+<img width="436" height="946" alt="Screenshot 2025-08-21 at 12 39 48 PM" src="https://github.com/user-attachments/assets/c4acd990-e5b9-47d7-b5d1-5ea8d986483d" />
+<img width="431" height="954" alt="Screenshot 2025-08-21 at 12 39 38 PM" src="https://github.com/user-attachments/assets/f0baf884-1b83-4899-af47-931885c887de" />
