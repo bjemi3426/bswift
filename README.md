@@ -25,6 +25,6 @@ Product Demo App
 ![Uploading Simulator Screenshot - iPhone 14 Pro - 2025-10-04 at 22.16.44.png…]()
 <img width="436" height="945" alt="Simulator Screenshot - iPhone 14 Pro - 2025-10-04 at 22 09 22" src="https://github.com/user-attachments/assets/10705c80-6bc8-4479-818f-33d906f28754" />
 <img width="436" height="945" alt="Simulator Screenshot - iPhone 14 Pro - 2025-10-04 at 22 09 08" src="https://github.com/user-attachments/assets/f54fcd86-46a4-4d92-a116-ac838472a696" />
-<img width="1179" height="2556" alt="Simulator Screenshot - iPhone 14 Pro - 2025-10-04 at 22 08 50" src="https://github.com/user-attachments/assets/efa8b9e2-b4b1-4129-b844-5cb055a4c46b" />
-<img width="1179" height="2556" alt="Simulator Screenshot - iPhone 14 Pro - 2025-10-04 at 22 06 28" src="https://github.com/user-attachments/assets/b117e749-8107-4212-8357-c3f6c6109125" />
-<img width="1179" height="2556" alt="Simulator Screenshot - iPhone 14 Pro - 2025-10-04 at 22 05 10" src="https://github.com/user-attachments/assets/b6cd4076-6a34-4f02-9ae7-555df7728a46" />
+<img width="436" height="945"  alt="Simulator Screenshot - iPhone 14 Pro - 2025-10-04 at 22 08 50" src="https://github.com/user-attachments/assets/efa8b9e2-b4b1-4129-b844-5cb055a4c46b" />
+<img width="436" height="945"  alt="Simulator Screenshot - iPhone 14 Pro - 2025-10-04 at 22 06 28" src="https://github.com/user-attachments/assets/b117e749-8107-4212-8357-c3f6c6109125" />
+<img width="436" height="945"  alt="Simulator Screenshot - iPhone 14 Pro - 2025-10-04 at 22 05 10" src="https://github.com/user-attachments/assets/b6cd4076-6a34-4f02-9ae7-555df7728a46" />
