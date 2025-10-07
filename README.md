@@ -9,12 +9,13 @@ Welcome to **bswift**, a collection of demo apps showcasing my work with **Swift
 
 | Project | Description |
 |---------|-------------|
-| [MovieShelf](MovieShelf-iOS/README.md) | Browse movies using the IMDB API. |
-| [ProductsDemo](ProductsDemo-iOS/README.md) | Inventory app with CoreData and charts. |
-| [Plants](Plants/README.md) | Plant care tracker with reminders and media. |
-| [PictureVault](PictureVault/README.md) | Store and view photos securely. |
-| [ScannerBot](ScannerBot/README.md) | Product scanning and inventory management. |
-| [SwitchingLangs](SwitchingLangs/README.md) | Language learning flashcards with TTS. |
+| [MovieShelf-IOS](./MovieShelf-IOS/README.md) | iOS | Browse movies via IMDB API (Now Playing, Popular, Top Rated) |
+| [MyCLI-IOS](./MyCLI-IOS/README.md) | iOS / CLI | A command-line style interface or utility demo |
+| [PictureVault-IOS](./PictureVault-IOS/README.md) | iOS | Store and view photos securely. |
+| [PlantLife-MacOS](./PlantLife-MacOS/README.md) | macOS | Plant care tracker with reminders and media. |
+| [ProductsDemo](./ProductsDemo/README.md) | iOS | Inventory app with CoreData and charts. |
+| [ScannerBot](./ScannerBot/README.md) | iOS | Product scanning and inventory management. |
+| [SwitchingLangs-MacOS](./SwitchingLangs-MacOS/README.md) | macOS | Language learning flashcards with TTS. |
 
 
 
