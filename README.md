@@ -9,8 +9,8 @@ Welcome to **bswift**, a collection of demo apps showcasing my work with **Swift
 
 | Project | Description |
 |---------|-------------|
-| [MovieShelf](MovieShelf/README.md) | Browse movies using the IMDB API. |
-| [ProductsDemo](ProductsDemo/README.md) | Inventory app with CoreData and charts. |
+| [MovieShelf](MovieShelf-iOS/README.md) | Browse movies using the IMDB API. |
+| [ProductsDemo](ProductsDemo-iOS/README.md) | Inventory app with CoreData and charts. |
 | [Plants](Plants/README.md) | Plant care tracker with reminders and media. |
 | [PictureVault](PictureVault/README.md) | Store and view photos securely. |
 | [ScannerBot](ScannerBot/README.md) | Product scanning and inventory management. |
