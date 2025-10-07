@@ -51,7 +51,7 @@ It demonstrates a clean **MVVM architecture**, **Combine-based networking**, and
 
 
 ### Screenshots
-*(Optional — add images from your simulator later)*
+<div align="center"> <img src="./Screenshots/Screenshot-Products.png" width="260" alt="Products Screen"/> <img src="./Screenshots/Screenshot-Camera.png" width="260" alt="Camera Screen"/> <img src="./Screenshots/Screenshot-Settings.png" width="260" alt="Settings Screen"/> </div>
 
 ---
 
