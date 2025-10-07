@@ -63,7 +63,3 @@ The app demonstrates SwiftUI layouts, TabView navigation, and dynamic data prese
 *(Add screenshots or GIF demos from your simulator here)*
 
 ---
-
-### 🧑‍💻 Author
-**John [GitHub handle]**  
-iOS Developer | SwiftUI • Core Data • MVVM • Charts  
