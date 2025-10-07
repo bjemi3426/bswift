@@ -17,7 +17,11 @@ Welcome to **bswift**, a collection of demo apps showcasing my work with **Swift
 | [ScannerBot](./ScannerBot/README.md) | iOS | Product scanning and inventory management. |
 | [SwitchingLangs-MacOS](./SwitchingLangs-MacOS/README.md) | macOS | Language learning flashcards with TTS. |
 
-> With the links in the table above, you can now **jump directly to each project's README** 
+> With the links in the table above, you can now **jump directly to each project's README**
+
+
+
+
 
 This repository contains multiple iOS/macOS demo apps built with SwiftUI, CoreData, Combine, and other frameworks. Each project has its own README with detailed information, screenshots, and instructions.
 
