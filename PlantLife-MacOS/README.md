@@ -56,7 +56,7 @@ It offers a clean master-detail interface where users can search, sort, and view
 
 - ### 🖼️ Screenshots
 <div align="center"> <img src="./screenshots/Screenshot-Main.png" width="260" alt="Main Screen"/> <img src="./screenshots/Screenshot-Plantnotes.png" width="260" alt="Plantnotes Screen"/> <img src="./screenshots/Screenshot-Reminder.png" width="260" alt="Reminder Screen"/>
-  <img src="./screenshots/Sort-Settings.png" width="260" alt="Sort Screen"/> </div>
+  <img src="./screenshots/Sort.png" width="260" alt="Sort Screen"/> </div>
 
 ---
 
