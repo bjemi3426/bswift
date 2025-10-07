@@ -1,7 +1,7 @@
-# 📱 App Name
+# 📱 MovieShelf
 
 ### Overview
-Brief summary of what the app does and its purpose.
+List all the latest movies and allows for search using IMDB.
 
 ### Features
 - ✅ Feature 1
