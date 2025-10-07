@@ -54,7 +54,3 @@ It leverages **SwiftUI** for UI layout and **text-to-speech** functionality for 
 - Improve UI with card-style swipe gestures for flashcards.  
 
 ---
-
-### 🧑‍💻 Author
-**John [GitHub handle]**  
-macOS Developer | SwiftUI • Text-to-Speech • Educational Apps  
