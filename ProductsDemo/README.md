@@ -60,6 +60,6 @@ The app demonstrates SwiftUI layouts, TabView navigation, and dynamic data prese
 ---
 
 ### 🖼️ Screenshots
-*(Add screenshots or GIF demos from your simulator here)*
+<div align="center"> <img src="./Screenshots/Screenshot-Products.png" width="260" alt="Products Screen"/> <img src="./Screenshots/Screenshot-Camera.png" width="260" alt="Camera Screen"/> <img src="./Screenshots/Screenshot-Settings.png" width="260" alt="Settings Screen"/> </div>
 
 ---
