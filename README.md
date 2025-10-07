@@ -1,28 +1,54 @@
-Brandon J. (self taught dev - 6+ years) Public portfolio/repo. (See App Directories for more screenshots.)
-iOS/MacOS
-** Demo Apps **
+# 🧩 bswift – iOS & macOS Demo Portfolio
 
-Smarty Plants Appp MacOS
+Welcome to **bswift**, a collection of demo apps showcasing my work with **Swift**, **SwiftUI**, and related Apple frameworks.
 
-<img width="1213" height="740" alt="Screenshot 2025-08-17 at 10 17 24 AM" src="https://github.com/user-attachments/assets/b099a90b-6a47-4104-9428-56a21d1bac57" />
-<img width="1212" height="747" alt="Screenshot 2025-08-17 at 10 19 19 AM" src="https://github.com/user-attachments/assets/f19a607d-3278-4490-8c5f-be7449bf3c7b" />
-<img width="1209" height="743" alt="Screenshot 2025-08-17 at 10 18 11 AM" src="https://github.com/user-attachments/assets/c0497745-5e8b-4dba-b93f-10f41fc7f899" />
-<img width="1211" height="743" alt="Screenshot 2025-08-17 at 10 17 43 AM" src="https://github.com/user-attachments/assets/6d0254df-145f-4e5f-b2b1-b16b045e12d1" />
+---
 
+## 📂 Projects & Demos
 
-MovieShelf APP IOS (imdb api)
+| App | Platform | What It Does (one-liner) |
+|---|---|--------------------------|
+| [MovieShelf-IOS](./MovieShelf-IOS) | iOS | Browse movies via IMDB API (Now Playing, Popular, Top Rated) |
+| [MyCLI-IOS](./MyCLI-IOS) | iOS / CLI | A command-line style interface or utility demo |
+| [PictureVault-IOS](./PictureVault-IOS) | iOS | Store, manage, and view images |
+| [PlantLife-MacOS](./PlantLife-MacOS) | macOS | Plant tracking / plant info UI demo |
+| [ProductsDemo](./ProductsDemo) | iOS | Product catalog, listing, possibly shopping features |
+| [ScannerBot](./ScannerBot) | iOS | Scan documents or detect text / images |
+| [SwiftMarket-IOS](./SwiftMarket-IOS) | iOS | Marketplace / local buy-sell demo |
+| [SwitchingLangs-MacOS](./SwitchingLangs-MacOS) | macOS | Language switching or localization demo |
 
+> **Note:** Each project folder includes its own **README.md** with detailed descriptions, architecture, screenshots, and features.
 
-<img width="435" height="885" alt="Screenshot 2025-08-21 at 12 48 08 PM" src="https://github.com/user-attachments/assets/c62ccf5b-90d9-41b2-b116-66b60d19e146" /> 
-<img width="435" height="885" alt="Screenshot 2025-08-21 at 12 39 48 PM" src="https://github.com/user-attachments/assets/c4acd990-e5b9-47d7-b5d1-5ea8d986483d" />
-<img width="435" height="885" alt="Screenshot 2025-08-21 at 12 39 38 PM" src="https://github.com/user-attachments/assets/f0baf884-1b83-4899-af47-931885c887de" />
+---
 
+## 🧰 Skills & Tech Highlights
 
-Product Demo App
+- **Languages & Frameworks:** Swift, SwiftUI, UIKit (if applicable), Combine  
+- **Patterns / Architecture:** MVVM, modular component design  
+- **APIs & Data:** REST integration, JSON decoding, persistent storage  
+- **Platforms:** iOS & macOS  
+- **UX / UI:** Custom views, animations, toolbar/navigation components  
 
+---
 
+## 📌 How to Navigate
 
-<img width="435" height="885" alt="Screenshot 2025-10-04 at 10 27 34 PM" src="https://github.com/user-attachments/assets/0e5c5f51-3c64-47d1-8111-2c57c2660d52" /> 
-<img width="435" height="885"  alt="Simulator Screenshot - iPhone 14 Pro - 2025-10-04 at 22 08 50" src="https://github.com/user-attachments/assets/efa8b9e2-b4b1-4129-b844-5cb055a4c46b" />
-<img width="435" height="885"  alt="Simulator Screenshot - iPhone 14 Pro - 2025-10-04 at 22 06 28" src="https://github.com/user-attachments/assets/b117e749-8107-4212-8357-c3f6c6109125" />
-<img width="435" height="885"  alt="Simulator Screenshot - iPhone 14 Pro - 2025-10-04 at 22 05 10" src="https://github.com/user-attachments/assets/b6cd4076-6a34-4f02-9ae7-555df7728a46" />
+1. Click on any project name above.  
+2. Inside each project folder, you'll find:
+   - `README.md` with full details  
+   - Screenshots / GIFs  
+   - Source code (Views, ViewModels, Models, Utilities)  
+
+---
+
+## 🧑‍💻 About Me
+
+Brandon J. — self-taught dev with 6+ years of experience  
+This repo demonstrates both breadth and depth across iOS/macOS development.  
+Feel free to browse the demos to get a sense of my style, architecture preferences, and technical approach.
+
+---
+
+## 📜 License
+
+MIT License © 2025 Brandon J.
