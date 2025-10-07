@@ -6,6 +6,7 @@ Welcome to **bswift**, a collection of demo apps showcasing my work with **Swift
 
 ## 📂 Projects & Demos
 
+
 | Project | Description |
 |---------|-------------|
 | [MovieShelf](MovieShelf/README.md) | Browse movies using the IMDB API. |
@@ -16,7 +17,8 @@ Welcome to **bswift**, a collection of demo apps showcasing my work with **Swift
 | [SwitchingLangs](SwitchingLangs/README.md) | Language learning flashcards with TTS. |
 
 
-> **Note:** Each project folder includes its own **README.md** with detailed descriptions, architecture, screenshots, and features.
+
+This repository contains multiple iOS/macOS demo apps built with SwiftUI, CoreData, Combine, and other frameworks. Each project has its own README with detailed information, screenshots, and instructions.
 
 ---
 
