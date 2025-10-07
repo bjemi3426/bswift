@@ -32,9 +32,14 @@ List all the latest movies and allows for search using IMDB.
 
 
 ### Notable Implementations
-- Example: Custom CameraView using `UIImagePickerController`
-- Example: Reusable Card Component with animations
-- Example: Light/Dark mode support
+- **Reactive Networking:** Uses Combine’s `dataTaskPublisher` to fetch and decode JSON asynchronously.
+- **MVVM Pattern:** `MovieViewModel` separates data logic from UI presentation.
+- **Reusable UI Components:**  
+  - `MovieScrollView` for horizontal carousels  
+  - `CustomToolBar` for dynamic navigation  
+- **Custom Styling:** Shared `CustomTextModifier` ensures a unified text hierarchy.
+- **Enum-Driven Navigation:** `ToolbarSelection` enum controls full-screen navigation via `fullScreenCover`.
+
 
 ### Future Improvements
 - Add movie detail view with cast, trailer, and similar movies.
