@@ -52,6 +52,3 @@ It demonstrates SwiftUI layouts, list management, navigation, and integration wi
 
 ---
 
-### 🧑‍💻 Author
-**John [GitHub handle]**  
-iOS Developer | SwiftUI • UIKit Integration • MVVM • Image Management  
