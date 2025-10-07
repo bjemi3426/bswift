@@ -3,22 +3,33 @@
 ### Overview
 List all the latest movies and allows for search using IMDB.
 
+
+
+
+
+
 ### Features
-- ✅ Feature 1
-- ✅ Feature 2
-- ✅ Feature 3
+- 🎬 Browse movies by category (Now Playing, Popular, Top Rated)
+- 🔍 Search for movies using IMDB API
+- ❤️ Favorite and manage saved movies
+- 🧭 Custom bottom toolbar for navigation
 
 ### Tech Stack
 - **Language:** Swift
 - **Frameworks:** SwiftUI, Combine, Core Data, etc.
-- **Architecture:** MVVM / MVC / Other
-- **Persistence:** Core Data / UserDefaults / CloudKit
-- **API / Networking:** URLSession / Alamofire / Custom Backend
+- **Architecture:** MVVM 
+- **Persistence:** UserDefaults
+- **API / Networking:** URLSession 
 
 ### UI Components
-- `ContentView`: brief description
-- `ProductCardView`: brief description
-- `CameraView`: brief description
+| Component              | Description                                                                             |
+| ---------------------- | --------------------------------------------------------------------------------------- |
+| **ContentView**        | Root view that displays multiple horizontal movie lists within a vertical `ScrollView`. |
+| **MovieScrollView**    | Horizontal scroll view for a specific movie category, rendering `MovieCard` items.      |
+| **CustomToolBar**      | Bottom toolbar allowing quick navigation between Home, Search, and Favorites.           |
+| **MovieSearchScreen**  | Dedicated screen for searching movies from IMDB API.                                    |
+| **MovieFavoritesView** | Displays movies added to favorites by the user.                                         |
+
 
 ### Notable Implementations
 - Example: Custom CameraView using `UIImagePickerController`
