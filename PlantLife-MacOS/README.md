@@ -1,19 +1,19 @@
 # 🌱 PlantLife-MacOS
 
 ### Overview
-**PlantLife** is a macOS app built with **SwiftUI** that helps users browse, sort, and view detailed information about various plants.  
-It demonstrates the use of `NavigationSplitView`, searchable lists, state management via `ObservableObject`, and modular SwiftUI components for a master-detail experience.
+**PlantLife** is a macOS app built with **SwiftUI** that helps users browse, track, and care for plants.  
+It offers a clean master-detail interface where users can search, sort, and view detailed plant information, complete with care reminders and images.
 
 ---
 
 ### ✨ Features
-- 📋 Browse a categorized list of plants (Root, Leafy, Seed & Fruit, Stem & Flower).  
-- 🔍 Search plants by name using a search bar.  
-- 🗂️ Sort plants by name, water date, or nutrient date (via confirmation dialog).  
-- 📖 View detailed plant information on selection (`PlantDetailView`).  
-- 🌿 Displays plant category, dates for planting, expected harvest, watering, and nutrients.  
-- 🖼️ Shows plant images dynamically based on name.  
-- 🖥️ macOS-specific layout with `NavigationSplitView` for master-detail interface.  
+- 📋 Browse categorized plant collections (Root, Leafy, Seed & Fruit, Stem & Flower).  
+- 🔍 Search plants by name using the built-in search field.  
+- 🗂️ Sort plants by name, watering date, or nutrient date.  
+- 🖥️ macOS-style navigation using `NavigationSplitView`.  
+- 🖼️ View rich images and descriptions for each plant.  
+- ⏰ **Receive care reminders and notifications** for watering and nutrient schedules.  
+- 🌿 Detailed view for each plant showing planting, blooming, and harvest timelines.  
 
 ---
 
@@ -21,37 +21,38 @@ It demonstrates the use of `NavigationSplitView`, searchable lists, state manage
 | Category | Details |
 |----------|---------|
 | **Language** | Swift |
-| **Frameworks** | SwiftUI, Foundation |
-| **Architecture** | MVVM (`PlantViewModel` manages plant data) |
+| **Frameworks** | SwiftUI, Foundation, UserNotifications |
+| **Architecture** | MVVM (`PlantViewModel` for data and reminders) |
 | **Platform** | macOS |
-| **UI Patterns** | `NavigationSplitView`, searchable list, master-detail, dynamic image loading |
+| **UI Patterns** | `NavigationSplitView`, searchable lists, master-detail views |
 
 ---
 
 ### 🧩 UI Components
 | Component | Description |
 |-----------|-------------|
-| `ContentView` | Root view displaying the list of plants and handling selection. |
-| `PlantDetailView` | Detailed view for selected plant including image, care info, and key dates. |
-| `PlantRow` | Displays a single plant in the list. |
-| `PlantViewModel` | ObservableObject that manages plant data and categories. |
+| `ContentView` | Root view showing all plants, search, and sorting. |
+| `PlantDetailView` | Detailed plant info, image, and care sections. |
+| `PlantRow` | Displays plant summary row in the list. |
+| `PlantViewModel` | Handles plant data, reminders, and scheduling notifications. |
 
 ---
 
 ### 🧠 Notable Implementations
-- **Master-Detail Layout:** Uses `NavigationSplitView` for macOS-friendly navigation.  
-- **Searchable & Sortable List:** Dynamic filtering and potential sorting options.  
-- **Detailed Plant Info:** Includes multiple sections for care, growth, and expected yields.  
-- **Dynamic Image Loading:** Images automatically pulled from plant names.  
-- **State Management:** Handles selection, search text, and sort actions via `@State` and `@ObservedObject`.  
+- **Master-Detail Navigation:** Optimized for macOS layout using `NavigationSplitView`.  
+- **Dynamic Plant Images:** Loads images using the plant’s name automatically.  
+- **Search & Sort Logic:** Supports text-based filtering and sorting triggers.  
+- **Local Notifications:** Schedules care reminders for watering and nutrient tasks.  
+- **Media Support:** Displays high-quality plant images and placeholder descriptions.  
+- **State Management:** Powered by SwiftUI’s reactive bindings and `@ObservedObject` pattern.  
 
 ---
 
 ### 🚀 Future Improvements
-- Implement sorting functionality in the confirmation dialog.  
-- Add persistent storage (Core Data or local JSON).  
-- Add care reminders and notifications for selected plants.  
-- Include more images and media for each plant.  
-- Improve layout responsiveness for different macOS window sizes.  
+- Persist reminder data across launches with Core Data.  
+- Integrate progress tracking (growth stages, harvest logs).  
+- Add support for cross-device sync via iCloud.  
+- Enable image capture and storage using macOS Photos picker.  
 
 ---
+
