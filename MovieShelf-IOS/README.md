@@ -37,9 +37,12 @@ List all the latest movies and allows for search using IMDB.
 - Example: Light/Dark mode support
 
 ### Future Improvements
-- Add authentication
-- Integrate with API
-- Add unit tests
+- Add movie detail view with cast, trailer, and similar movies.
+- Implement poster caching with `AsyncImage` or a custom cache layer.
+- Introduce pagination and pull-to-refresh.
+- Add unit tests for `MovieViewModel` and API handling.
+- Integrate persistent favorites with Core Data or SwiftData.
+
 
 ### Screenshots
 *(Optional — add images from your simulator later)*
