@@ -55,13 +55,7 @@ It demonstrates a clean **MVVM architecture**, **Combine-based networking**, and
 
 ---
 
-You can add a "Demo" section with GIFs or links to videos once you have them.
+Add a "Demo" section with GIFs or links to videos once you have them.
 
 ---
 
-If you post your first project’s code (or main files), I’ll extract all the key info and generate a finished README in that style.
-
-Would you like me to:
-- **(A)** Stick with the concise version (1-page clean summary),  
-or  
-- **(B)** Include more detail (technical deep-dive, recruiter-style emphasis on skills)?
