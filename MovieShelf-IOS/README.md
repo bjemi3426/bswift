@@ -1,7 +1,8 @@
 # 📱 MovieShelf
 
 ### Overview
-List all the latest movies and allows for search using IMDB.
+**Movie Shelf** is a SwiftUI demo app that integrates with the **IMDB API** to display categorized movie lists such as *Now Playing*, *Popular*, and *Top Rated*.  
+It demonstrates a clean **MVVM architecture**, **Combine-based networking**, and modern SwiftUI layout patterns for a sleek movie-browsing experience.
 
 
 
