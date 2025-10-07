@@ -52,6 +52,3 @@ It demonstrates basic CLI development in Swift using **ArgumentParser**, **Proce
 
 ---
 
-### 🧑‍💻 Author
-**John [GitHub handle]**  
-macOS CLI Developer | Swift • Foundation • ArgumentParser  
