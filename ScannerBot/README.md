@@ -56,7 +56,3 @@ It uses **SwiftUI** to handle navigation, product lists, and sign-in flows while
 - Enhance UI with images for each product.  
 
 ---
-
-### 🧑‍💻 Author
-**John [GitHub handle]**  
-iOS Developer | SwiftUI • MVVM • Product Tracking UI  
