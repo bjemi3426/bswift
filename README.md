@@ -48,6 +48,3 @@ Feel free to browse the demos to get a sense of my style, architecture preferenc
 
 ---
 
-## 📜 License
-
-MIT License © 2025 Brandon J.
