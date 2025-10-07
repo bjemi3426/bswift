@@ -1,4 +1,4 @@
-# (Brandon Jemison
+# (Brandon Jemison)
 
 # 🧩 bswift – iOS & macOS Demo Portfolio
 
