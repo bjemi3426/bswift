@@ -14,7 +14,6 @@ Welcome to **bswift**, a collection of demo apps showcasing my work with **Swift
 | [PlantLife-MacOS](./PlantLife-MacOS) | macOS | Plant tracking / plant info UI demo |
 | [ProductsDemo](./ProductsDemo) | iOS | Product catalog, listing, possibly shopping features |
 | [ScannerBot](./ScannerBot) | iOS | Scan documents or detect text / images |
-| [SwiftMarket-IOS](./SwiftMarket-IOS) | iOS | Marketplace / local buy-sell demo |
 | [SwitchingLangs-MacOS](./SwitchingLangs-MacOS) | macOS | Language switching or localization demo |
 
 > **Note:** Each project folder includes its own **README.md** with detailed descriptions, architecture, screenshots, and features.
