@@ -52,7 +52,11 @@ It offers a clean master-detail interface where users can search, sort, and view
 - Persist reminder data across launches with Core Data.  
 - Integrate progress tracking (growth stages, harvest logs).  
 - Add support for cross-device sync via iCloud.  
-- Enable image capture and storage using macOS Photos picker.  
+- Enable image capture and storage using macOS Photos picker.
+
+- ### 🖼️ Screenshots
+<div align="center"> <img src="./screenshots/Screenshot-Main.png" width="260" alt="Main Screen"/> <img src="./screenshots/Screenshot-Plantnotes.png" width="260" alt="Plantnotes Screen"/> <img src="./screenshots/Screenshot-Reminder.png" width="260" alt="Reminder Screen"/>
+  <img src="./screenshots/Sort-Settings.png" width="260" alt="Sort Screen"/> </div>
 
 ---
 
