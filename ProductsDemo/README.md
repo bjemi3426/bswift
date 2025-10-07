@@ -60,7 +60,7 @@ The app demonstrates SwiftUI layouts, TabView navigation, and dynamic data prese
 ---
 
 ### 🖼️ Screenshots
-<div align="center"> <img src="./Screenshots/Screenshot-Login.png" width="260" alt="Login Screen"/> <img src="./Screenshots/Screenshot-Products.png" width="260" alt="Products Screen"/> <img src="./Screenshots/Screenshot-Bargraph.png" width="260" alt="Bar Graph Screen"/>
-  <img src="./Screenshots/Screenshot-Settings.png" width="260" alt="Settings Screen"/> </div>
+<div align="center"> <img src="./screenshots/Screenshot-Login.png" width="260" alt="Login Screen"/> <img src="./screenshots/Screenshot-Products.png" width="260" alt="Products Screen"/> <img src="./screenshots/Screenshot-Bargraph.png" width="260" alt="Bar Graph Screen"/>
+  <img src="./screenshots/Screenshot-Settings.png" width="260" alt="Settings Screen"/> </div>
 
 ---
