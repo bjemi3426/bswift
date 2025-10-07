@@ -34,8 +34,8 @@ Welcome to **bswift**, a collection of demo apps showcasing my work with **Swift
 
 ## 🧰 Skills & Tech Highlights
 
-- **Languages & Frameworks:** Swift, SwiftUI, UIKit (if applicable), Combine  
-- **Patterns / Architecture:** MVVM, modular component design  
+- **Languages & Frameworks:** Swift, SwiftUI, UIKit , Combine, and more.
+- **Patterns / Architecture:** MVVM, custom views and components.  
 - **APIs & Data:** REST integration, JSON decoding, persistent storage  
 - **Platforms:** iOS & macOS  
 - **UX / UI:** Custom views, animations, toolbar/navigation components  
