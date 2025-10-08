@@ -8,16 +8,33 @@ Welcome to **bswift**, a collection of demo apps showcasing my work with **Swift
 
 ## 📂 Projects & Demos
 
+## Projects
 
-| Project | Description |
-|---------|-------------|
-| [MovieShelf-IOS](./MovieShelf-IOS/README.md) | iOS | Browse movies via IMDB API (Now Playing, Popular, Top Rated) |
-| [MyCLI-IOS](./MyCLI-IOS/README.md) | iOS / CLI | A command-line style interface or utility demo |
-| [PictureVault-IOS](./PictureVault-IOS/README.md) | iOS | Store and view photos securely. |
-| [PlantLife-MacOS](./PlantLife-MacOS/README.md) | macOS | Plant care tracker with reminders and media. |
-| [ProductsDemo](./ProductsDemo/README.md) | iOS | Inventory app with CoreData and charts. |
-| [ScannerBot](./ScannerBot/README.md) | iOS | Product scanning and inventory management. |
-| [SwitchingLangs-MacOS](./SwitchingLangs-MacOS/README.md) | macOS | Language learning flashcards with TTS. |
+| Project | Platform | Description | Difficulty |
+|----------|-----------|--------------|-------------|
+| [MovieShelf-IOS](./MovieShelf-IOS/README.md) | iOS | Browse movies via IMDB API (Now Playing, Popular, Top Rated) | 🟡 Intermediate |
+| [MyCLI-IOS](./MyCLI-IOS/README.md) | iOS / CLI | A command-line style interface or utility demo | 🟢 Beginner |
+| [PictureVault-IOS](./PictureVault-IOS/README.md) | iOS | Store and view photos securely | 🟢 Beginner |
+| [PlantLife-MacOS](./PlantLife-MacOS/README.md) | macOS | Plant care tracker with reminders and media | 🔴 Advanced |
+| [ProductsDemo](./ProductsDemo/README.md) | iOS | Inventory app with CoreData and charts | 🟠 Intermediate–Advanced |
+| [ScannerBot](./ScannerBot/README.md) | iOS | Product scanning and inventory management | 🟡 Intermediate |
+| [SwitchingLangs-MacOS](./SwitchingLangs-MacOS/README.md) | macOS | Language learning flashcards with TTS | 🟡 Intermediate |
+
+---
+
+### 🔍 Difficulty Legend
+
+| Icon | Level | Description |
+|------|--------|-------------|
+| 🟢 | **Beginner** | Core SwiftUI concepts, simple navigation, and state |
+| 🟡 | **Intermediate** | Multiple views, ViewModels, or light persistence |
+| 🟠 | **Intermediate–Advanced** | Uses APIs, CoreData, or custom UI logic |
+| 🔴 | **Advanced** | Complex architecture, state management, or multi-feature apps |
+
+---
+
+**Tip:** Click any project name above to open its folder and view the `README.md`, screenshots, and source code.
+
 
 
 > This repository contains multiple iOS/macOS demo apps built with SwiftUI, CoreData, Combine, and other frameworks. Each project has its own README with detailed information, screenshots, and instructions.
