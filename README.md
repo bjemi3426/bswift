@@ -12,7 +12,7 @@ Welcome to **bswift**, a collection of demo apps showcasing my work with **Swift
 
 | Project | Platform | Description | Difficulty |
 |----------|-----------|--------------|-------------|
-| [MovieShelf-IOS](./MovieShelf-IOS/README.md) | iOS | Browse movies via IMDB API (Now Playing, Popular, Top Rated) | 🟡 Intermediate |
+| [MovieShelf-IOS](./MovieShelf-IOS/README.md) | iOS | Browse movies via IMDB API (Now Playing, Popular, Top Rated) | 🟠 Intermediate–Advanced |
 | [MyCLI-IOS](./MyCLI-IOS/README.md) | iOS / CLI | A command-line style interface or utility demo | 🟢 Beginner |
 | [PictureVault-IOS](./PictureVault-IOS/README.md) | iOS | Store and view photos securely | 🟢 Beginner |
 | [PlantLife-MacOS](./PlantLife-MacOS/README.md) | macOS | Plant care tracker with reminders and media | 🔴 Advanced |
