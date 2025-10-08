@@ -51,7 +51,7 @@ It demonstrates a clean **MVVM architecture**, **Combine-based networking**, and
 
 
 ### Screenshots
-<div align="center"> <img src="./Screenshots/Screenshot-Main.png" width="260" alt="Main Screen"/> <img src="./Screenshots/Screenshot-Search.png" width="260" alt="Search Screen"/> <img src="./Screenshots/Screenshot-Favorite.png" width="260" alt="Favorite Screen"/> </div>
+<div align="center"> <img src="./screenshots/Screenshot-Main.png" width="260" alt="Main Screen"/> <img src="./screenshots/Screenshot-Search.png" width="260" alt="Search Screen"/> <img src="./screenshots/Screenshot-Favorite.png" width="260" alt="Favorite Screen"/> </div>
 
 ---
 
